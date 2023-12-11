@@ -8,7 +8,7 @@ import ClearIcon from "@mui/icons-material/Clear";
 import IconButton from "@mui/material/IconButton";
 import { signOut,useSession } from "next-auth/react";
 import Logout from "@mui/icons-material/Logout";
-import DashboardLogo from '../../../../public/dashboardLogo.png'
+import DashboardLogo from '../../../../public/logodash.png'
 import Image from 'next/image'
 import { useTranslations } from 'next-intl';
 import { useEffect, useState } from "react";
